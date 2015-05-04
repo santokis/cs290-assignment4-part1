@@ -1,0 +1,27 @@
+Sean Santoki
+CS290 - Assignment 4 Part 1
+log.txt
+
+Start:	Mon Apr 27 20:00:00 2015 -0700
+End:	Mon Apr 27 20:20:00 2015 -0700
+Task:	Create cs290-assignment4-part1 git repository and uploaded required files.
+
+Start:	Tue Apr 28 18:00:00 2015 -0700
+End:	Tue Apr 28 21:00:00 2015 -0700
+Task:	During this time I watched lecture/youtube videos on php and downloaded MAMP to host local server testing.
+
+Start:	Fri May 01 19:00:00 2015 -0700
+End:	Fri May 01 22:00:00 2015 -0700
+Task:	Started working on login.php, content1.php, and content2.php. Completed html portion of login.php and linked correctly to content1.php. Having difficulties with count and logout action.
+
+Start:	Sat May 02 12:00:00 2015 -0700
+End:	Sat May 02 06:00:00 2015 -0700
+Task:	Continued to have difficulties figuring out how to log specific users out. Ended up referencing code from Week 5 lecture “PHP Sessions” for session destroy/redirection. Completed login.php, content1.php, and content2.php.
+
+Start:	Sun May 03 10:00:00 2015 -0700
+End:	Sun May 03 15:10:00 2015 -0700
+Task:	Completed multtable.php.
+
+Start:	Sun May 03 16:00:00 2015 -0700
+End:	Sun May 03 18:40:00 2015 -0700
+Task:	Completed loopback.php.
